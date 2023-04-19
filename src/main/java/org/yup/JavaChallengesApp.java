@@ -40,7 +40,21 @@ public class JavaChallengesApp {
         } else {
 
             //when condition is false
-            return "Hello, " + name + ", I am sorry but we cannot let you into the party";
+          //  return "Hello, " + name + ", I am sorry but we cannot let you into the party";
         }
+
+        //System.out.println(sumOfnumbers);
+
+        //int differenceOfnumbers = challenges.subrtractTwoNumbers();
+        //int productOfNumbers = challenges.multiplyTwoNumbers();
+        //System.out.println(productOfnumbers);
+
+        //int interactiveCalculatorResult = challenges.interactiveCalculator();
+        //System.out.println(interactiveCalculatorResult);
+
     }
+    //System.out.println(challenges.findBiggestNumber());
+}
+
+//System.out.println(challenges.convertToUppercase());
 }
