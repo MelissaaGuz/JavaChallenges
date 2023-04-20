@@ -57,4 +57,5 @@ public class JavaChallengesApp {
 }
 
 //System.out.println(challenges.convertToUppercase());
-}
+
+//challenges.countToTen();
